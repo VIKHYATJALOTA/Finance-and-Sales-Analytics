@@ -1,7 +1,9 @@
 Problem Statement:
+
 The objective of "Sales and Finance Analytics" is to utilize Excel's capabilities effectively, enabling us to delve deeply into our business operations.
 
 Key Learnings:
+
 💠Power Query: Learn how to extract, transform, and load data effectively to ensure it's clean and ready for analysis.
 
 💠Power Pivot: Understand how to create data models and establish relationships between different types of data tables for better analysis.
